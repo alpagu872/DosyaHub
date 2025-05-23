@@ -1,0 +1,39 @@
+# Java
+/backend/target/
+/backend/.idea/
+*.iml
+
+# Node
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+
+# History
+.history/
+
+# MinIO ve yüklemeler
+/minio_data/
+/uploads/
+minio.exe
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Log dosyaları
+*.log 
+
+# PRD ve TO-DO dokümanları
+PRD.MD
+TO-DO.MD
+
+# Docker dosyaları
+docker-compose.yml
+
+
+
+
+backend/minio.exe

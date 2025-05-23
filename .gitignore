@@ -14,8 +14,6 @@
 # MinIO ve yüklemeler
 /minio_data/
 /uploads/
-minio.exe
-
 # Sistem dosyaları
 .DS_Store
 Thumbs.db
